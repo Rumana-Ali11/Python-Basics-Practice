@@ -1,2 +1,14 @@
-# Python-Basics-Practice
-Collection of Python practice programs covering lists, tuples, dictionaries, sets, loops, functions, and file handling.
+# Python Basics Practice
+
+This repository contains Python practice programs created while learning Python fundamentals.
+
+Topics Covered:
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Loops
+- Functions
+- File Handling
+
+These programs were developed to strengthen programming and problem-solving skills.
